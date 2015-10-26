@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ShareToBrowser</string>
+    <string name="open_browser">Open in browser</string>
+</resources>
